@@ -1,0 +1,27 @@
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    font-size: 40px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 36px;
+}
+
+.vermelho {
+   color: brown; 
+}
+
+.texto_grande {
+    font-size: 52px;
+}
+
+#titulo_h2 {
+    background-color: blueviolet;
+}
+
+#titulo_h2-1 {
+    background-color: darkcyan;
+}
